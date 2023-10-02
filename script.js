@@ -8,9 +8,8 @@ const inputInHeight = chatInput.scrollHeight ;
 
 
  let userMessage;
-// const API_KEY = "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";
 
-const API_KEY = "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";
+const API_KEY = "#noapikeyheretill";
 
 
 // Function to create a new chat <li> element
