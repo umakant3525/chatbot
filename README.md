@@ -4,7 +4,7 @@ This is a web-based chatbot powered by the OpenAI API, created for learning purp
 
 ## Demo
 
-[Link to Live Demo](https://umakant3525.github.io/chatbot/)
+[Link to Live Demo](https://umakant3525.github.io/chatbot_api/)
 
 ## Technologies Used
 
